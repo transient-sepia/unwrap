@@ -1,0 +1,13 @@
+This scripts works on both Windows and Unix platforms.
+Python version 2.7 needed.
+
+usage: unwrap.py [-h] -i INPUT [-o OUTPUT]
+
+Oracle .plb packages unwrapper.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INPUT, --input INPUT
+                        input package filename
+  -o OUTPUT, --output OUTPUT
+                        output text filename
